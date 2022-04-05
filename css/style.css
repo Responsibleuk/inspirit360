@@ -286,6 +286,23 @@ iframe {
   }
 }
 
+/* image carousel media query */
+
+/* .container-full-height {
+  height: 85vh;
+  width: auto;
+  object-fit: contain;
+  overflow: hidden;
+  background: url(../images/4.jpg) no-repeat center center;
+}
+
+@media screen and (max-width: 968px) {
+  
+  .container-full-height {
+    background: url(../images/jm-mobile.jpg) no-repeat center center;
+  }
+} */
+
 /* Scroll Down icon
 -------------------------------------------------------*/
 .scroll-down {
