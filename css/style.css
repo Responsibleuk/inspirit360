@@ -46,18 +46,18 @@
 }
 
 .section-wrap {
-  padding: 50rem 0;
+  padding: 50px 0;
   overflow: hidden;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .section-wrap-lg {
-  padding: 70rem 0;
+  padding: 70px 0;
 }
 
 .section-wrap-md {
-  padding: 30rem 0;
+  padding: 20px 0;
 }
 
 .main-container {
