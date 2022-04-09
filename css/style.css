@@ -228,7 +228,7 @@ iframe {
 }
 
 p {
-  text-align: left;
+  text-align: justify;
 }
 
 h1 {
@@ -239,8 +239,31 @@ h2 {
   margin-bottom: 10vh;
 }
 
+h3 {
+  margin-bottom: 10vh;
+}
+
+h4 {
+  margin-bottom: 10vh;
+}
+
+h5 {
+  margin-bottom: 10vh;
+}
+
+h6 {
+  margin-bottom: 10vh;
+}
 .paragraph {
   margin-bottom: 10rem;
+}
+
+ol {
+  text-align: left;
+}
+
+li {
+  list-style-type: circle
 }
 
 /*-------------------------------------------------------*/
