@@ -203,6 +203,7 @@ body {
   overflow-x: hidden;
   overflow-y: auto;
   color: #929292;
+  
 }
 
 body img {
@@ -223,6 +224,12 @@ video {
 iframe {
   border: 0;
 }
+
+p {
+  text-align: left;
+}
+
+h1 {margin-bottom: 10vh;}
 
 /*-------------------------------------------------------*/
 /* Preloader
