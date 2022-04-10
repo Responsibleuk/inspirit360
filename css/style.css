@@ -258,6 +258,10 @@ h6 {
   margin-bottom: 10rem;
 }
 
+.paragraph_smaller {
+  margin-bottom: 5rem;
+}
+
 ol {
   text-align: left;
 }
